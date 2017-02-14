@@ -1,0 +1,21 @@
+{
+  "name": "ibsbot",
+  "version": "1.0.0",
+  "description": "test bot",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsgopu/Bot.git"
+  },
+  "author": "gopu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsgopu/Bot/issues"
+  },
+  "homepage": "https://github.com/rsgopu/Bot#readme"
+}
