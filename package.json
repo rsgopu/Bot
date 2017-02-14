@@ -1,5 +1,5 @@
 {
-  "name": "ibsbot",
+  "name": "ibsbot", 
   "version": "1.0.0",
   "description": "test bot",
   "main": "app.js",
